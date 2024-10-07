@@ -1,7 +1,14 @@
-## Hi there 👋
+<a href="https://github.com/PS-safe/PS-safe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PS-safe&show_icons=true&line_height=27&count_private=true&&theme=swift" alt="Phatdanai's GitHub Stats" />
+</a>
+<a href="https://github.com/PS-safe/PS-safe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PS-safe&hide=java,html,tex&&theme=swift&langs_count=4" />
+</a>
 
-<!--
-**PS-safe/PS-safe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+
+
+**phawitpp/phawitpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
